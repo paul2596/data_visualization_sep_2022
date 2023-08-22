@@ -3,7 +3,7 @@
 ### Objectives
 - To study the uncertainty and impact of the disease. 
 - Build dashboards with appropriate interactions that help convey the data story through the patterns identified.
-- Help in deciding the deployment of limited tactical resources (medics and medical supplies) based the visualization.
+- Help in deciding the deployment of limited tactical resources (medics and medical supplies) based on the visualization.
 
 For the visualization of the coordinates map plot is used which shows the infected areas and spread of the disease. 
 Stacked area chart is used in the dashboard to show the average infected in each population size
