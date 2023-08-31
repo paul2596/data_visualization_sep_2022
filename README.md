@@ -1,4 +1,4 @@
-# Visualization Dashboard to Analyze the Spread of a Disease from Simulation Data
+# Visualization Dashboard to Analyze the Spread of a Disease from Simulation Data (Sep 2022-Oct 2023)
 
 ### Objectives
 - To study the uncertainty and impact of the disease. 
