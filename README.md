@@ -1,5 +1,5 @@
 # Visualization Dashboard to Analyze the Spread of a Disease from Simulation Data 
-#### (Project Timeline:Sep 2022-Oct 2023)
+#### (Project Timeline:Sep 2022-Oct 2022)
 
 ### Objectives
 - To study the uncertainty and impact of the disease. 
